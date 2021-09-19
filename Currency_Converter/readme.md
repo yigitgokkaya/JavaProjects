@@ -16,6 +16,6 @@ Project is created with:
 * Free API from https://www.exchangerate-api.com/
 	
 ## Setup
-* First you need to get a free API key from https://www.exchangerate-api.com and correctly assign it to api_key attribute of Menu Class.
+* First you need to get a free API key from https://www.exchangerate-api.com and correctly assign it to api_key attribute of the Menu Class.
 * Second you need to go to Project Structure => Project Settings => Modules => Dependencies  and click the + icon.
 * Lastly click on the JARs or Directories and locate the java-json.jar to add it to the Dependencies.
